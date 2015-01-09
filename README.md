@@ -1,4 +1,4 @@
 # AndroidGithubTest
 Android Porject with Github integration--test.
 
-Troubleshooting.
+Made for troubleshooting purposes; do not fork.
